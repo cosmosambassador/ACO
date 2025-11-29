@@ -45,6 +45,8 @@ terraform/	Terraform Infrastructure Starter Manifests
 Complete_Toolkit.zip	Full packaged toolkit bundle
 🧭 How to Use This Toolkit
 1. Download
+Major.Minor.Revision
+1.0.0 — Initial Command-Deck Release
 
 Use the ZIP archive for a complete ready-to-run package:
 
